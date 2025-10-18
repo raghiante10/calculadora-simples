@@ -1,14 +1,26 @@
 # 🧮 Calculadora Simples com Interface Gráfica
 
-Este projeto é uma calculadora feita em Python com interface gráfica usando Tkinter.
+Uma calculadora feita em Python com interface gráfica usando Tkinter. Ideal para operações básicas como soma, subtração, multiplicação e divisão, com uma interface amigável e intuitiva.
 
-## Funcionalidades
+---
 
-- Soma, subtração, multiplicação e divisão
-- Interface intuitiva com botões
-- Tratamento de erros (como divisão por zero)
+## 📷 Captura de tela
 
-## Como executar
+> *(Adicione aqui uma imagem da calculadora rodando, se quiser)*
 
-1. Instale o Python (se ainda não tiver)
-2. Clone o repositório: https://github.com/Raghiante10/calculadora-simples.git
+---
+
+## 🚀 Como executar
+
+### ✅ Requisitos
+
+- Python 3 instalado no computador
+- Sistema operacional: Windows, macOS ou Linux
+
+### 🔧 Passos
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/Raghiante10/calculadora-simples.git
+   cd calculadora-simples
