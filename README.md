@@ -6,7 +6,12 @@ Uma calculadora feita em Python com interface gráfica usando Tkinter. Ideal par
 
 ## 📷 Captura de tela
 
+<<<<<<< HEAD
 > (imagem.gif)
+=======
+> E:\calculator.gif C:\Users\Micro\calculadora\
+
+>>>>>>> 9b4bd0683fa74d75e8254651c64f88ea325bb6a5
 
 ---
 
