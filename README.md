@@ -6,7 +6,8 @@ Uma calculadora feita em Python com interface gráfica usando Tkinter. Ideal par
 
 ## 📷 Captura de tela
 
-> *(Adicione aqui uma imagem da calculadora rodando, se quiser)*
+> E:\imagem.gif C:\Users\Micro\calculadora\
+
 
 ---
 
