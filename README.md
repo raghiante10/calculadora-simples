@@ -9,7 +9,8 @@ Uma calculadora feita em Python com interface gráfica usando Tkinter. Ideal par
 
 > (imagem.gif)
 =======
->![](imagem.gif)
+>![Demonstração da calculadora](imagem.gif)
+
 ---
 
 ## 🚀 Como executar
