@@ -6,15 +6,14 @@ Uma calculadora feita em Python com interface gráfica usando Tkinter. Ideal par
 
 ## 📷 Captura de tela
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-> ![Demonstração da calculadora](imagem.gif)
 
-=======
+> 
+
+
 
 > (imagem.gif)
 
-=======
+
 
 
 ---
