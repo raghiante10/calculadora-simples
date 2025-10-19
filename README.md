@@ -7,7 +7,8 @@ Uma calculadora feita em Python com interface gráfica usando Tkinter. Ideal par
 ## 📷 Captura de tela
 
 
-> 
+>![Demonstração da calculadora](imagem.gif)
+
 
 
 
